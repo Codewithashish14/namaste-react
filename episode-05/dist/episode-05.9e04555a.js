@@ -207,7 +207,7 @@
       });
     }
   }
-})({"4AFl5":[function(require,module,exports,__globalThis) {
+})({"3dLDz":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -215,7 +215,7 @@ var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
-module.bundle.HMR_BUNDLE_ID = "bdc45dd6ce55ca48";
+module.bundle.HMR_BUNDLE_ID = "6bce406e9e04555a";
 "use strict";
 /* global HMR_HOST, HMR_PORT, HMR_SERVER_PORT, HMR_ENV_HASH, HMR_SECURE, HMR_USE_SSE, chrome, browser, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
@@ -713,12 +713,12 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
     }
 }
 
-},{}],"g8FPG":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$1dc5 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-$parcel$ReactRefreshHelpers$1dc5.init();
+},{}],"liQR6":[function(require,module,exports,__globalThis) {
+var $parcel$ReactRefreshHelpers$8464 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+$parcel$ReactRefreshHelpers$8464.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
 var prevRefreshSig = globalThis.$RefreshSig$;
-$parcel$ReactRefreshHelpers$1dc5.prelude(module);
+$parcel$ReactRefreshHelpers$8464.prelude(module);
 
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -753,12 +753,12 @@ var _clientDefault = parcelHelpers.interopDefault(_client);
                     src: "https://cdn.pixabay.com/photo/2017/02/17/17/33/food-2074638_640.png",
                     alt: "Logo"
                 }, void 0, false, {
-                    fileName: "episode-03/App.js",
+                    fileName: "episode-05/App.js",
                     lineNumber: 25,
                     columnNumber: 17
                 }, undefined)
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 24,
                 columnNumber: 13
             }, undefined),
@@ -769,45 +769,45 @@ var _clientDefault = parcelHelpers.interopDefault(_client);
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "Home"
                         }, void 0, false, {
-                            fileName: "episode-03/App.js",
+                            fileName: "episode-05/App.js",
                             lineNumber: 29,
                             columnNumber: 21
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "About Us"
                         }, void 0, false, {
-                            fileName: "episode-03/App.js",
+                            fileName: "episode-05/App.js",
                             lineNumber: 30,
                             columnNumber: 21
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "Contact Us"
                         }, void 0, false, {
-                            fileName: "episode-03/App.js",
+                            fileName: "episode-05/App.js",
                             lineNumber: 31,
                             columnNumber: 21
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "Cart"
                         }, void 0, false, {
-                            fileName: "episode-03/App.js",
+                            fileName: "episode-05/App.js",
                             lineNumber: 32,
                             columnNumber: 21
                         }, undefined)
                     ]
                 }, void 0, true, {
-                    fileName: "episode-03/App.js",
+                    fileName: "episode-05/App.js",
                     lineNumber: 28,
                     columnNumber: 17
                 }, undefined)
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 27,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
-        fileName: "episode-03/App.js",
+        fileName: "episode-05/App.js",
         lineNumber: 23,
         columnNumber: 9
     }, undefined);
@@ -833,28 +833,28 @@ _c = Header;
                 className: "res-logo",
                 src: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" + cloudinaryImageId
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 60,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                 children: name
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 61,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
                 children: areaName
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 62,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
                 children: cuisines.join(" , ")
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 63,
                 columnNumber: 13
             }, undefined),
@@ -864,13 +864,13 @@ _c = Header;
                     avgRating
                 ]
             }, void 0, true, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 64,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
-        fileName: "episode-03/App.js",
+        fileName: "episode-05/App.js",
         lineNumber: 56,
         columnNumber: 9
     }, undefined);
@@ -2338,7 +2338,7 @@ const Body = ()=>{
                 className: "Search",
                 children: "Search"
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 1530,
                 columnNumber: 13
             }, undefined),
@@ -2347,18 +2347,18 @@ const Body = ()=>{
                 children: resList.map((restaurant)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(RestaurantCard, {
                         resData: restaurant
                     }, restaurant.info.id, false, {
-                        fileName: "episode-03/App.js",
+                        fileName: "episode-05/App.js",
                         lineNumber: 1533,
                         columnNumber: 21
                     }, undefined))
             }, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 1531,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
-        fileName: "episode-03/App.js",
+        fileName: "episode-05/App.js",
         lineNumber: 1529,
         columnNumber: 9
     }, undefined);
@@ -2369,18 +2369,18 @@ const AppLayout = ()=>{
         className: "app",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Header, {}, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 1543,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Body, {}, void 0, false, {
-                fileName: "episode-03/App.js",
+                fileName: "episode-05/App.js",
                 lineNumber: 1544,
                 columnNumber: 9
             }, undefined)
         ]
     }, void 0, true, {
-        fileName: "episode-03/App.js",
+        fileName: "episode-05/App.js",
         lineNumber: 1542,
         columnNumber: 12
     }, undefined);
@@ -2388,7 +2388,7 @@ const AppLayout = ()=>{
 _c3 = AppLayout;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
-    fileName: "episode-03/App.js",
+    fileName: "episode-05/App.js",
     lineNumber: 1550,
     columnNumber: 13
 }, undefined));
@@ -2398,7 +2398,7 @@ $RefreshReg$(_c1, "RestaurantCard");
 $RefreshReg$(_c2, "Body");
 $RefreshReg$(_c3, "AppLayout");
 
-  $parcel$ReactRefreshHelpers$1dc5.postlude(module);
+  $parcel$ReactRefreshHelpers$8464.postlude(module);
 } finally {
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
@@ -21365,6 +21365,6 @@ function $da9882e673ac146b$var$ErrorOverlay() {
     return null;
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["4AFl5","g8FPG"], "g8FPG", "parcelRequire164e", {}, null, null, "http://localhost:1234")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["3dLDz","liQR6"], "liQR6", "parcelRequire164e", {}, null, null, "http://localhost:1234")
 
-//# sourceMappingURL=episode-03.ce55ca48.js.map
+//# sourceMappingURL=episode-05.9e04555a.js.map
